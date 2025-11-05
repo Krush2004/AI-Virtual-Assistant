@@ -1,6 +1,6 @@
-# 🤖 Your Personal AI Voice Assistant
+# 🤖 Your Personal AI Virtual Assistant
 
-It is a **Python-based AI voice assistant** that can perform a wide range of smart tasks — from answering queries, browsing the internet, summarizing or correcting text, translating languages, controlling system apps, and even capturing screenshots — all using **voice commands**.  
+It is a **Python-based AI virtual assistant** that can perform a wide range of smart tasks — from answering queries, browsing the internet, summarizing or correcting text, translating languages, controlling system apps, and even capturing screenshots — all using **voice commands**.  
 
 It’s like having your own mini **Jarvis**, built entirely in Python 🧠💻
 
@@ -81,8 +81,8 @@ Voice-Assistant/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/AI-Voice-Assistant.git
-cd AI-Voice-Assistant
+git clone https://github.com/<your-username>/AI-Virtual-Assistant.git
+cd AI-Virtual-Assistant
 
 👨‍💻 Author
 
