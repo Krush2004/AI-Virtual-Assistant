@@ -88,7 +88,8 @@ cd AI-Virtual-Assistant
 ```
 
 👨‍💻 Author
-
+```
 Krushna Mane
 🎓 B.E. in Computer Science  and Engineering(AI & ML)
 📧 krushnamane2004@gmail.com
+```
