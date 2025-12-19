@@ -66,6 +66,7 @@ It’s like having your own mini **Jarvis**, built entirely in Python 🧠💻
 
 ---
 
+```text
 Voice-Assistant/
 │
 ├── Ai project.py          # Main script
@@ -74,6 +75,7 @@ Voice-Assistant/
 ├── requirements.txt      # Dependencies list
 └── README.md             # Project documentation
 
+```
 ---
 
 
@@ -83,6 +85,7 @@ Voice-Assistant/
 ```bash
 git clone https://github.com/<your-username>/AI-Virtual-Assistant.git
 cd AI-Virtual-Assistant
+```
 
 👨‍💻 Author
 
